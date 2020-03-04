@@ -110,6 +110,8 @@ menu:
         link: '/process'
       - label: 'The exhibit'
         link: '/credits/'
+      - label: 'test'
+        link: '/test-file/'
   - label: 'About'
     link: '/about'
     sub:
