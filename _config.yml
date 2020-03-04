@@ -20,7 +20,7 @@
 
 title:            'Slippages'
 description:      'Exhibit site for Slippages project'
-url:              '/slippages'
+url:              'https://egrguric.github.io'
 baseurl:          '/slippages'
 copyright:        'Example copyright org, 2019'
 logo:             '/assets/logo.png'
