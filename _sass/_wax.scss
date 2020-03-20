@@ -47,7 +47,7 @@ header & nav bar
 */
 
 #wax-header {
-  background-color: #002145;
+  background-color: $head-bg-color;
   border-bottom: 1px solid $text-color;
   font-family: $heading-font;
   color: $text-color;
@@ -67,13 +67,13 @@ header & nav bar
   }
 
   .navbar-toggler {
-    background-color: $bg-color;
+    background-color: $head-bg-color;
   }
 
   .navbar-nav {
     .nav-item {
       z-index: 1000000;
-      background-color: $bg-color;
+      background-color: $head-bg-color;
     }
     .nav-link {
       color: $text-color;
@@ -82,10 +82,10 @@ header & nav bar
       color: $accent-dark;
     }
     .nav-link:active {
-      background-color: $bg-color;
+      background-color: $head-bg-color;
     }
     .dropdown-menu {
-      background-color: $bg-color;
+      background-color: $head-bg-color;
       border-color: $neutral;
       .dropdown-item:focus {
         background-color: transparent;
