@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Artist\'s Documents
+title: Artist&#x27;s Documents
 permalink: /artistdocuments/
 ---
 
