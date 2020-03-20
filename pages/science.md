@@ -1,6 +1,6 @@
 ---
 layout: page
-title: The science
+title: The Science
 permalink: /science/
 ---
 
