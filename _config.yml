@@ -114,7 +114,7 @@ menu:
         link: '/premiere/'
       - label: 'The Outcomes'
         link: '/outcomes/'
-      - label: 'Artist's Documents'
+      - label: 'Artist\'s Documents'
         link: '/artistdocuments/'
       - label: 'Acknowledgements'
         link: '/acknowledgements/'
