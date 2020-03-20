@@ -112,8 +112,8 @@ menu:
         link: '/credits/'
       - label: 'The Premiere'
         link: '/premiere/'
-      - label: 'test'
-        link: '/test-file/'
+      - label: 'The Outcomes'
+        link: '/outcomes/'
   - label: 'About'
     link: '/about'
     sub:
