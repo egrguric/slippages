@@ -2,7 +2,7 @@
   <div class='wax-inline-container'>
     <div class='row'>
       <div class='col'>
-        <p class='footer-title'>{{ site.title }}</p>
+        <p class='foot-title'>{{ site.title }}</p>
         <p class='footer-description'>{{ site.description }}</p>
         <p class='footer-copyright'>
           &copy; {{ site.copyright }}<br>
@@ -10,8 +10,8 @@
         </p>
       </div>
       <div class='col'>
-        <p class='footer-title'>Links</p>
-        <p class='footer-links'>
+        <p class='foot-title'>Links</p>
+        <p class='foot-links'>
           {% for item in site.footer.links %}
             <a href='{{ item.link | absolute_url }}'>
               {{ item.label }}
