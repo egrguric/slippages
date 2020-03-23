@@ -50,14 +50,14 @@ header & nav bar
   background-color: $head-bg-color;
   border-bottom: 1px solid $text-color;
   font-family: $heading-font;
-  color: $text-head-color;
+  font-style: $text-head-color;
   z-index: 100000;
   padding: $margin;
   letter-spacing: 0.075rem;
 
   .navbar-brand {
     font-weight: 700;
-    color: $text-head-color;
+    font-style: $text-head-color;
     font-size: 2rem;
     white-space: normal;
   }
