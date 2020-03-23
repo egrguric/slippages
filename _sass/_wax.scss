@@ -49,15 +49,13 @@ header & nav bar
 #wax-header {
   background-color: $head-bg-color;
   border-bottom: 1px solid $text-color;
-  font-family: $heading-font;
-  font-style: $text-head-color;
+  font-family: $header-heading-font;
   z-index: 100000;
   padding: $margin;
   letter-spacing: 0.075rem;
 
   .navbar-brand {
     font-weight: 700;
-    font-style: $text-head-color;
     font-size: 2rem;
     white-space: normal;
   }
@@ -76,7 +74,7 @@ header & nav bar
       background-color: $head-bg-color;
     }
     .nav-link {
-      color: $text-color;
+      color: $head-text-color;
     }
     .nav-link:hover {
       color: $accent-dark;
