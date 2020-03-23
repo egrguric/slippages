@@ -23,6 +23,10 @@ a {
   text-decoration: none;
 }
 
+a.nav-item {
+  color: $head-text-color;
+}
+
 a:hover {
   text-decoration: underline;
   color: $accent-dark;
@@ -48,7 +52,7 @@ header & nav bar
 
 #wax-header {
   background-color: $head-bg-color;
-  border-bottom: 1px solid $head-text-color;
+  border-bottom: 1px solid $text-color;
   font-family: $header-heading-font;
   z-index: 100000;
   padding: $margin;
@@ -77,7 +81,7 @@ header & nav bar
       color: $head-text-color;
     }
     .nav-link:hover {
-      color: $accent-dark;
+      color: $accent-light;
     }
     .nav-link:active {
       background-color: $head-bg-color;
