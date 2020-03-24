@@ -22,7 +22,7 @@ title:            'Slippages'
 description:      'Exhibit site for Slippages project'
 url:              'https://egrguric.github.io'
 baseurl:          '/slippages'
-copyright:        'Example copyright org, 2019'
+copyright:        'Coming soon.'
 logo:             '/assets/logo.png'
 
 # ---------------------------------------------------------------
@@ -131,9 +131,9 @@ menu:
 
 footer:
   links:
-    - label: 'GitHub'
+    - label: 'View on GitHub'
       link: 'https://github.com/egrguric/slippages'
-    - label: 'Credits'
+    - label: 'Site credits'
       link: '/credits'
   logos:
     - img: '/img/logo.png'

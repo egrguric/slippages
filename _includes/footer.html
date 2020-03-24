@@ -6,17 +6,14 @@
         <p class='footer-description'>{{ site.description }}</p>
         <p class='footer-copyright'>
           &copy; {{ site.copyright }}<br>
-          Built with <a class='foot-links href='https://github.com/minicomp/wax/'>Minicomp/Wax</a>
         </p>
-      </div>
-      <div class='col'>
-        <p class='foot-title'>Links</p>
         <p class='foot-links'>
           {% for item in site.footer.links %}
-            <a class='foot-links href='{{ item.link | absolute_url }}'>
+            <a class='foot-links' href='{{ item.link | absolute_url }}'>
               {{ item.label }}
             </a>
-          {% unless forloop.last %} / {% endunless %}
+          {% unless forloop.last %} </br></br>
+          {% endunless %}
           {% endfor %}
         </p>
         <p class='footer-logos'>
@@ -27,6 +24,12 @@
           </a>
           {% endfor %}
         </p>
+        <p class='foot-links'>
+        Built with <a class='foot-links' href='https://github.com/minicomp/wax/'>Minicomp/Wax</a>
+        </p>
+      </div>
+      <div class='col'>
+        <p class='footer-description'>This site was made possible by the generous financial contribution of:</p>
       </div>
     </div>
   </div>
