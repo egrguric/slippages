@@ -3,9 +3,9 @@ layout: page
 show_title: false
 banner:
   collection: slippages
-  pid: obj10
+  pid: obj1
   y: 25%
-  height: '500px'
+  height: '400px'
 ---
 <!-- parallax image goes here at the top of the page content.-->
 
