@@ -4,7 +4,7 @@ title: The Creative Process
 permalink: /process/
 ---
 
-<div id="ubcOpenCollectionsWidgetDisplay">
+[//]: # <div id="ubcOpenCollectionsWidgetDisplay">
 <script id="ubcOpenCollectionsWidget"
 src="https://open.library.ubc.ca/staticfile/build/embed/item.js"
 data-item="1.0214446"
