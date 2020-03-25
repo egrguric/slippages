@@ -15,7 +15,7 @@ async > {newline}
 </script>
 </div>
 
-Carruthers maintains notebooks for each of her projects. The notebook for ‘slippages’ functions as an essential resource for those interested in investigating the artist’s creative process. Assembled over two years, this notebook is comprised of hand-written texts, inspirational preliminary sketches, and special inserts.
+Carruthers maintains notebooks for each of her projects. The notebook for ‘slippages’ functions as an essential resource for those interested in investigating the artist’s creative process. Assembled over two years, this notebook is comprised of hand-written texts, inspirational preliminary sketches, and unique inserts.
 
 *5 or 6 pages to show how they reveal process*					
 
