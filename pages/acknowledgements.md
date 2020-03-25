@@ -12,17 +12,18 @@ permalink: /acknowledgements/
 *	UBC Library Woodward Library:  
 *	cIRcle: Tara Stephens-Kyte (Digital Repository Librarian).
 
-Two colleagues in particular deserve independent acknowledgement:
+Three colleagues in particular deserve independent acknowledgement:
 *	Eka Grguric for guiding the construction of the website and providing effective solutions to project complications as they arose.
+* Evan Thornberry Thornberry for collecting and navigating geographically referenced project data and images and for thoughtful feedback throughout website construction. 
 *	Matthew Kaufhold for serving as the primary digitizer, creating resource metadata, participating in website construction, and helping edit website content.
 
-UBC School of Music graciously extended support to ‘slippages’ website creation by way of facilitating performance copyright clearance. Special thanks goes to UBCSO Conductor Dr. Jonathan Girard whose boundless energy and kindness contributed greatly to the success of the enterprise.
+UBC School of Music graciously extended support to ‘slippages’ website creation by way of facilitating performance copyright clearance. Special thanks goes to UBC Director of Orchestras Conductor Dr. Jonathan Girard whose boundless energy and kindness contributed greatly to the success of the enterprise.
 
-Final acknowledgement must be made to the composer/artist, Deborah Carruthers, who generously gave of her time, energy, and commitment to project and website. Thank you, Deborah.
+Lastly we thank composer and artist, Deborah Carruthers, for giving generously of her time, energy, and commitment for the success of the venture. Thank you, Deborah.
 
-‘Slippages’ and website were funded in part by the Anne Kaplan Endowment, UBC Library. The endowment is used to support the work of Canadian women composers by accessioning primary, archival materials into UBC Library’s Canadian Women Composer Archive Collection. A current listing of participating composers is available through the UBC Library Archives website.
+The project ‘slippages’ and the creation of this website were funded in part by the Anne Kaplan Endowment, UBC Library. The endowment is used to support the work of Canadian women composers by accessioning primary, archival materials into UBC Library’s Canadian Women Composer Archive Collection. 
 
-*Thoughts on how to separate acknowledgment of funding for the composition versus the website. Maybe three logos: Canada Council, Peter Wall IAS and UBC Library somewhere???*
+The project ‘slippages’ was funded in part by the Peter Wall Institute of Advanced Studies, and Canada Council of the Arts.
 
- 
+[//]: # On this page only include logos for PWIAS, CC, UBC School of Music. Three footer bars: one with these logos, the one below for UBC Library, and the very bottom one for UBC.
 
