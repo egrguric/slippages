@@ -22,10 +22,6 @@ Carruthers found inspiration for the project on an earlier research trip to Atha
 
 <iframe frameborder="0" class="juxtapose" width="100%" height="460" src="https://cdn.knightlab.com/libs/juxtapose/latest/embed/index.html?uid=bfb7740e-5e43-11ea-b9b8-0edaf8f81e27"></iframe>
 
-Laying on her back on top of the ice field, Carruthers listened to the voice of the glacier – the natural environment underneath her, above her, and around her, capturing initial experiences through the lens of her camera and notetaking. These experiences and their outcomes would form the basis of ‘slippages.’
+Laying on her back on top of the ice field, Carruthers listened to the voice of the glacier – the natural environment underneath her, above her, and around her, capturing initial experiences through the lens of her camera and notetaking. These experiences would form the basis of ‘slippages.’
 
 Photo 1  | Photo 2 | Photo 3
-
-Carruthers maintains notebooks for each of her projects. The notebook for ‘slippages’ functions as an essential resource for those interested in investigating the artist’s creative process. Assembled over two years, this notebook is comprised of hand-written texts, inspirational preliminary sketches, and special inserts.
-
-Notebook embed
