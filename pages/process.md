@@ -13,7 +13,7 @@ data-metadata="true"
 data-width=""
 async > {newline}
 </script>
-</div>
+[//]: # </div>
 
 Carruthers maintains notebooks for each of her projects. The notebook for ‘slippages’ functions as an essential resource for those interested in investigating the artist’s creative process. Assembled over two years, this notebook is comprised of hand-written texts, inspirational preliminary sketches, and unique inserts.
 
