@@ -104,8 +104,8 @@ collections:
 menu:
   - label: 'The project'
     sub:
-      - label: 'The Science'
-        link: '/science/'
+      - label: The Science
+        link: /science/
       - label: 'The Creative Process'
         link: '/process'
       - label: 'From Sight to Sound'
