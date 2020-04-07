@@ -10,3 +10,5 @@ On Friday, October 5th, 2018, ‘slippages’ premiered at the Chan Centre for t
 
 Viewing parties for the broadcast performance took place in cities across Canada, the United States, the United Kingdom, and Germany. 
 
+*Broadcast performance*
+
