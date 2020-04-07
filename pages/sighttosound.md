@@ -4,7 +4,7 @@ title: From Sight to Sound
 permalink: /sighttosound/
 ---
 
-In the summer of 2018, Carruthers gathered up 27 selected paintings that would comprise the ‘slippages’ series and temporarily relocated to Vancouver to work with Dr. Jonathan Girard, Director of Orchestras at the University of British Columbia School of Music and the UBC Symphony Orchestra (UBCSO). Conversations took place between Carruthers and Girard regarding how best to translate the visual into the auditory. 
+In the summer of 2018, Carruthers gathered up 27 selected paintings that would comprise the ‘slippages’ series and temporarily relocated to Vancouver to work with [Dr. Jonathan Girard](https://en.wikipedia.org/wiki/Jonathan_Girard_(conductor)), Director of Orchestras at the University of British Columbia School of Music and the [UBC Symphony Orchestra](https://music.ubc.ca/symphony-orchestra) (UBCSO). Conversations took place between Carruthers and Girard regarding how best to translate the visual into the auditory. 
 
 *Images of Deborah and Jonathan working together*
  
