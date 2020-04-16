@@ -20,7 +20,7 @@ The result of Carruthers’ tenure as a Wall scholar is ‘slippages’ – a 27
 
 Carruthers found inspiration for the project on an earlier research trip to [Athabasca Glacier](https://en.wikipedia.org/wiki/Athabasca_Glacier) in the Canadian Rockies. The artist was determined to experience glaciers firsthand, motivated by their importance to our living planet; glaciers provide fresh water for irrigation and domestic use, sustain animal and plant life, and determine the level of earth’s oceans. Scientists continue to monitor glacial retreat or melting to determine the impact of atmospheric greenhouse gases released as a result of human activity. Athabasca Glacier is currently melting at a rate of over five meters a year.
 
-<iframe frameborder="0" class="juxtapose" width="100%" height="null" src="https://cdn.knightlab.com/libs/juxtapose/latest/embed/index.html?uid=725b720c-8024-11ea-a879-0edaf8f81e27"></iframe>
+<iframe frameborder="0" class="juxtapose" width="800" height="250" src="https://cdn.knightlab.com/libs/juxtapose/latest/embed/index.html?uid=725b720c-8024-11ea-a879-0edaf8f81e27"></iframe>
 
 Laying on her back on top of the ice field, Carruthers listened to the voice of the glacier – the natural environment underneath her, above her, and around her, capturing initial experiences through the lens of her camera and notetaking. These experiences would form the basis of ‘slippages.’
 
