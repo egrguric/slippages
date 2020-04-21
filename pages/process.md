@@ -15,18 +15,32 @@ async > {newline}
 </script>
 [//]: # </div>
 
-Carruthers maintains notebooks for each of her projects. The notebook for ‘slippages’ functions as an essential resource for those interested in investigating the artist’s creative process. Assembled over two years, this notebook is comprised of hand-written texts, inspirational preliminary sketches, and unique inserts.
+### The Artist's Notebook  
 
-*5 or 6 pages to show how they reveal process*					
+*2 notebook pages*  
+Selected pages from Carruthers’ ‘slippages’ notebook highlighting the artist’s creative assimilation of glacial scientific theory.Car
+
+Carruthers maintains notebooks for each of her projects. The notebook for ‘slippages’ functions as an essential resource for those interested in investigating the artist’s creative process. Assembled over two years, this notebook is comprised of hand-written texts, inspirational preliminary sketches, and unique inserts.					
+
+### In the Artist's Studio
+
+*1 studio shot*  
+Photographs of Carruthers’ trip to Athabasca Glacier on display above her Montréal studio work table.
 
 Upon returning to Montréal after visiting Athabasca Glacier, Carruthers set to work in her studio, pinning up prints of her photographs to the studio walls and making preliminary drawings for a series of finished paintings.
 
-*2 studio shots*
+### Analog
+
+*3 paintings*  
+Three paintings selected from a series that would form the 27 page graphic score for ‘slippages’; acrylic ink on bespoke St-Armand cotton paper using hues of yellows, blues, and greys similar to those observed by the artist in the natural environment on her field trip to Athabasca Glacier.
 
 Carruthers commissioned special hand-made paper for the final images, requesting sheets be made with random holes. As the pages are placed over each other, the holes function metaphorically to stimulate the performer into imagining peering through the surface of the glacier to consider its past. Carruthers states: “With a glacier, the present is on the surface. You are working from the present to the past. Each layer, each sheet of my score is a layer of history.”
+			
+### Digital
 
-*4 paintings*			
+*Excerpt from the visual streaming component*
 
 Along with the paintings, Carruthers created a streaming video component that would serve to compliment the central aural experience. 
 
-*Excerpt from the visual streaming component*
+Learn more: [From Sight to Sound](https://egrguric.github.io/slippages/sighttosound)
+
