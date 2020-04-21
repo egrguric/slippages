@@ -6,7 +6,7 @@ permalink: '/affiliations/'
 
 ### Canadian Women Composers Archive Collection
 
-Selected materials related to ‘slippages” as exhibited on this website are part of UBC Library’s Canadian Women Composers Archive Collection (CWCAC).
+Selected materials related to *‘slippages'* as exhibited on this website are part of UBC Library’s Canadian Women Composers Archive Collection (CWCAC).
 
 The CWCAC is a unique music resource serving to:  
 * document the compositional practices of Canadian women composers active at home and abroad;
@@ -18,3 +18,5 @@ The collection was established in 2015 and is housed at University of British Co
 The list of current CWCAC participants is available through [canadian-women-composers-collection.pdf](http://rbscarchives.library.ubc.ca/downloads/canadian-women-composers-collection.pdf)
 
 The CWCAC is made possible through generous funding from the Anne Kaplan Endowment, UBC Library.
+
+[Acknowledgements](https://egrguric.github.io/slippages/acknowledgements)
