@@ -11,7 +11,7 @@ Three paintings selected from a series forming the 27-page graphic score for *�
 
 Immediately following the premier, Dr. Girard created a study score to record decisions made in the execution of the composition to facilitate future performances.
 
-In the summer of 2019, UBC’s Music Librarian began the process of gathering and working with colleagues from across various UBC Library units for the purpose of visioning and building UBC Library’s *‘slippages’* website and creating permanent access to *‘slippages'’* holdings in [UBC Library’s Open Collections](https://open.library.ubc.ca)
+In the summer of 2019, UBC’s Music Librarian began the process of gathering and working with colleagues from across various UBC Library units for the purpose of visioning and building UBC Library’s *‘slippages’* website and creating permanent access to *‘slippages’* holdings in [UBC Library’s Open Collections](https://open.library.ubc.ca)
 
 ### Teaching and Learning
 
@@ -26,4 +26,4 @@ Student action September 27, 2019 as captured by Bailey Martens in [“The stori
 
 Most importantly, *‘slippages’* endures as a marker for student engagement around climate crisis at UBC, both in terms of activities related to their professional studies and as inspiration to action.
 
-		
+Learn more: [Affiliations](https://egrguric.github.io/slippages/affiliations)
