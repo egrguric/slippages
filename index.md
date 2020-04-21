@@ -34,5 +34,5 @@ Lying on her back on top of the ice field, Carruthers listened to the voice of t
 
 The result of these experiences and Carruthers’ tenure as a Wall scholar is ‘slippages’ –a 27-page graphic score with an accompanying streaming visual component. For the unfamiliar, graphic scores use visual symbols to represent music rather than traditional music notation. Because of their emphasis on the visual, graphic scores are frequently considered works of art in and of themselves.
 
-Learn more: [The Creative Process](https://github.com/egrguric/slippages/blob/master/pages/process.md)
+Learn more: [The Creative Process](https://egrguric.github.io/slippages/process/)
 
