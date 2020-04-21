@@ -58,3 +58,5 @@ It will (hopefully) inspire experimentation.
 It is not a free improvisation.
 
 Structured improvisations provide a framework to examine ideas, themes, and sound.
+
+Learn more: [The Outcomes](https://egrguric.github.io/slippages/outcomes)
