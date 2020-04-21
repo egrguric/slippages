@@ -22,8 +22,7 @@ The inclusion of ‘slippages’ in UBCSO’s 2018-19 concert season offered two
 ### Action UBC
 
 *2 images of UBC action to climate crisis; Students and Friday’s For Future at UBC*  
-Student action September 27, 2019 as captured by Bailey Martens in “The stories behind UBC students' pleas for climate action”(line to article) published by UBC’s student newspaper; photos courtesy of UBYSSEY.  
-https://www.ubyssey.ca/culture/UBC-Climate-Strike-Signs/
+Student action September 27, 2019 as captured by Bailey Martens in [“The stories behind UBC students' pleas for climate action”](https://www.ubyssey.ca/culture/UBC-Climate-Strike-Signs) published by UBC’s student newspaper; photos courtesy of UBYSSEY.
 
 Most importantly, however, ‘slippages’ endures as a marker for student engagement around climate crisis at UBC, both in terms of activities related to their professional studies and as inspiration to action.
 
