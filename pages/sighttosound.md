@@ -18,5 +18,5 @@ Three paintings selected from the 27-page *‘slippages’* graphic score shown 
 
 Carruthers and Girard struck upon an ingenious solution. They created a geography of the orchestra on a sheet of transparent plastic and used it to map over Carruthers’ art works. Dr. Girard recounts: “We created a transparent overlay of the seating chart and went page by page, figuring out which instruments would take responsibility for which parts of the images.”
 
-Learn more: [The Premier](https://egrguric.github.io/slippages/premiere)
+Learn more: [The Premiere](https://egrguric.github.io/slippages/premiere)
 	
