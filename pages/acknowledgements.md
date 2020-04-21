@@ -4,15 +4,17 @@ title: Acknowledgements
 permalink: /acknowledgements/
 ---
 
+### Exhibition
+
 ‘Slippages’ website was a collaborative effort involving colleagues from across multiple departmental units:
 * UBC Library Music, Art and Architecture Library: Kevin Madill (UBC Music Librarian), Matthew Kaufhold (Graduate Academic Assistant, UBC School of Information).
 *	UBC Library Digital Initiatives: Robert Stibravy (Librarian, Digital Projects), Eirian Vining (Digital Project Librarian), Stephanie Savage (Scholarly Communications and Copyright).
 *	UBC Library Research Commons: Eka Grguric (Digital Scholarship Librarian), Evan Thornberry (GIS Librarian).
 *	UBC Library Rare Books and Special Collections: Krisztina Laszlo (Archivist), Felicia de la Para (Senior Library Assistant), Natalie Trapuzzano (Archives Assistant).
-*	UBC Library Woodward Library:  
+*	UBC Library Woodward Library: Helen Brown (Subject Librarian).
 *	cIRcle: Tara Stephens-Kyte (Digital Repository Librarian).
 
-Three colleagues in particular deserve independent acknowledgement:
+Three colleagues in particular deserve independent acknowledgement for their project contributions:
 *	Eka Grguric for guiding the construction of the website and providing effective solutions to project complications as they arose.
 * Evan Thornberry Thornberry for collecting and navigating geographically referenced project data and images and for thoughtful feedback throughout website construction. 
 *	Matthew Kaufhold for serving as the primary digitizer, creating resource metadata, participating in website construction, and editing website content.
@@ -23,9 +25,17 @@ Photographer John William kindly granted permission for use of his images docume
 
 Lastly we thank composer and artist, Deborah Carruthers, for giving generously of her time, energy, and commitment to the success of the venture. Thank you, Deborah.
 
-Funding for the project ‘slippages’was provided by The Peter Wall Institute for Advanced Studies, the Canada Council of the Arts, and the Anne Kaplan Endowment, UBC Library. 
+### Funding
 
-Funding for the website ‘slippages’ and digitization of ‘slippages’ resources was provided by the Anne Kaplan Endowment , UBC Library. The Anne Kaplan Endowment serves to support the work of Canadian women composers by accessioning primary, archival materials into UBC Library’s [Canadian Women Composers Archive Collection](http://rbscarchives.library.ubc.ca/index.php/canadian-women-composers-collection).
+Funding for the project ‘slippages’ was provided by The Peter Wall Institute for Advanced Studies, the Canada Council of the Arts, and the Anne Kaplan Endowment, UBC Library.
+
+Funding for the website ‘slippages’ and digitization of ‘slippages’ resources was provided by the Anne Kaplan Endowment, UBC Library.
+
+### Site
+
+This site is built using Wax, a minimal computing project led by MariiNyröpand currently maintained by MariiNyropand Alex Gil at Columbia University Libraries.
+
+Wax uses open source libraries and frameworks (including Jekyll, IIIF, OpenSeaDragon, Rake, and ElasticLunr) and builds upon work by software and data architects Peter Binkley, David Newbury, and others.
 
 [//]: # On this page only include logos for PWIAS, CC, UBC School of Music. Three footer bars: one with these logos, the one below for UBC Library, and the very bottom one for UBC.
 
