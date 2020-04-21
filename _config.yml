@@ -105,7 +105,7 @@ menu:
   - label: 'The project'
     sub:
       - label: 'The Creative Process'
-        link: '/process'
+        link: '/process/'
       - label: 'From Sight to Sound'
         link: '/sighttosound/'
       - label: 'The Premiere'
@@ -117,10 +117,10 @@ menu:
   - label: 'About'
     link: '/about'
     sub:
+      - label: 'Affiliations'
+        link: '/affiliations/'
       - label: 'Acknowledgements'
         link: '/acknowledgements/'
-      - label: 'Credits'
-        link: '/credits'
 
 # --------------------------------------------------------------
 # SITE FOOTER SETTINGS
