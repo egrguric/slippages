@@ -18,7 +18,7 @@ async > {newline}
 ### The Artist's Notebook  
 
 *2 notebook pages*  
-Selected pages from Carruthers’ ‘slippages’ notebook highlighting the artist’s creative assimilation of glacial scientific theory.Car
+Selected pages from Carruthers’ ‘slippages’ notebook highlighting the artist’s creative assimilation of glacial scientific theory.
 
 Carruthers maintains notebooks for each of her projects. The notebook for ‘slippages’ functions as an essential resource for those interested in investigating the artist’s creative process. Assembled over two years, this notebook is comprised of hand-written texts, inspirational preliminary sketches, and unique inserts.					
 
