@@ -27,12 +27,12 @@ Carruthers found inspiration for the project on an earlier research trip to [Ath
 
 ### The Project
 
-Photo 1  | Photo 2 | Photo 3
+Photo 1  | Photo 2 | Photo 3  
 Three photographs of Athabasca Glacier taken by the artist from a trip on May 23, 2017.
 
 Lying on her back on top of the ice field, Carruthers listened to the voice of the glacier – the natural environment underneath her, above her, and around her, capturing initial experiences through the lens of her camera and notetaking. These experiences would form the basis of ‘slippages.’
 
 The result of these experiences and Carruthers’ tenure as a Wall scholar is ‘slippages’ –a 27-page graphic score with an accompanying streaming visual component. For the unfamiliar, graphic scores use visual symbols to represent music rather than traditional music notation. Because of their emphasis on the visual, graphic scores are frequently considered works of art in and of themselves.
 
-Learn more: [The Creative Process](#process)
+Learn more: [The Creative Process](https://github.com/egrguric/slippages/blob/master/pages/process.md)
 
