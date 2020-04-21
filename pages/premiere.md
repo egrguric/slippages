@@ -22,6 +22,6 @@ On Friday, October 5th, 2018, *‘slippages’* premiered at the [Chan Centre fo
 
 Viewing parties for the broadcast performance took place in cities across Canada, the United States, the United Kingdom, and Germany.
 
-Learn more: [The Outcomes](https://egrguric.github.io/slippages/outcomes)
+Learn more: [Artist's Documents](https://egrguric.github.io/slippages/artistdocuments)
 
 
