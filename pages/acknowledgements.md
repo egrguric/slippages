@@ -33,7 +33,7 @@ Funding for the website ‘slippages’ and digitization of ‘slippages’ reso
 
 ### Site
 
-This site is built using Wax, a minimal computing project led by MariiNyröpand currently maintained by MariiNyropand Alex Gil at Columbia University Libraries.
+This site is built using Wax, a minimal computing project led by Marii Nyröp and currently maintained by Marii Nyrop and Alex Gil at Columbia University Libraries.
 
 Wax uses open source libraries and frameworks (including Jekyll, IIIF, OpenSeaDragon, Rake, and ElasticLunr) and builds upon work by software and data architects Peter Binkley, David Newbury, and others.
 
