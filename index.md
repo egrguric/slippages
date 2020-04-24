@@ -3,7 +3,7 @@ layout: page
 show_title: false
 banner:
   collection: slippages
-  pid: obj1
+  pid: Obj1
   y: 25%
   height: '400px'
 ---
