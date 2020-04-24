@@ -41,4 +41,4 @@ Wax uses open source libraries and frameworks (including Jekyll, IIIF, OpenSeaDr
 
 [Affiliations](https://egrguric.github.io/slippages/affiliations)
 
-<img src="img/UBC-logo-2018-crest-white-rgb72.png" />
+<img src="img/logo.png" />
