@@ -1,4 +1,0 @@
-pid,title,description,location,order,layout,collection,thumbnail,full,manifest
-obj1,Athabasca Glacier 1,Original,Canada,0,slippages_item,slippages,"/img/derivatives/iiif/images/obj1/full/250,/0/default.jpg",/img/derivatives/iiif/images/obj1/full/full/0/default.jpg,/img/derivatives/iiif/obj1/manifest.json
-obj2,Athabasca Glacier 2,Greyscale,Canada,1,slippages_item,slippages,"/img/derivatives/iiif/images/obj2/full/250,/0/default.jpg",/img/derivatives/iiif/images/obj2/full/full/0/default.jpg,/img/derivatives/iiif/obj2/manifest.json
-obj3,Athabasca Galcier 3,Purple,Canada,2,slippages_item,slippages,"/img/derivatives/iiif/images/obj3/full/250,/0/default.jpg",/img/derivatives/iiif/images/obj3/full/full/0/default.jpg,/img/derivatives/iiif/obj3/manifest.json
