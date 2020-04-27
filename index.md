@@ -34,3 +34,13 @@ The result of Carruthers' concern for the natural environment, field trip to Ath
 
 Learn more: [The Creative Process](https://egrguric.github.io/slippages/process/)
 
+<div id="ubcOpenCollectionsWidgetDisplay">
+<script id="ubcOpenCollectionsWidget"
+src="https://open.library.ubc.ca/staticfile/build/embed/item.js"
+data-item="1.0389937"
+data-collection="specialp"
+data-metadata="false"
+data-width=""
+async >
+</script>
+</div>
