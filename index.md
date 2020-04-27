@@ -30,7 +30,7 @@ Carruthers found inspiration for the project on an earlier research trip to [Ath
 src="https://open.library.ubc.ca/staticfile/build/embed/item.js"
 data-item="1.0389937"
 data-collection="specialp"
-data-metadata="true"
+data-metadata="false"
 data-width="800"
 async >
 </script>
