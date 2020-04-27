@@ -33,14 +33,3 @@ Lying on her back on top of the ice field, Carruthers listened to the voice of t
 The result of Carruthers' concern for the natural environment, field trip to Athabasca, and tenure as a Wall Scholar is *‘slippages’* – a 27-page graphic score with an accompanying streaming visual component. For the unfamiliar, graphic scores use visual symbols to represent music rather than traditional music notation. Because of their emphasis on the visual, graphic scores are frequently considered works of art in and of themselves.
 
 Learn more: [The Creative Process](https://egrguric.github.io/slippages/process/)
-
-<div id="ubcOpenCollectionsWidgetDisplay">
-<script id="ubcOpenCollectionsWidget"
-src="https://open.library.ubc.ca/staticfile/build/embed/item.js"
-data-item="1.0389937"
-data-collection="specialp"
-data-metadata="false"
-data-width=""
-async >
-</script>
-</div>
