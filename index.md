@@ -25,7 +25,16 @@ Carruthers found inspiration for the project on an earlier research trip to [Ath
 
 ### The Project
 
-Photo 1  | Photo 2 | Photo 3  
+<div id="ubcOpenCollectionsWidgetDisplay">
+<script id="ubcOpenCollectionsWidget"
+src="https://open.library.ubc.ca/staticfile/build/embed/item.js"
+data-item="1.0389937"
+data-collection="specialp"
+data-metadata="true"
+data-width="800"
+async >
+</script>
+</div>
 Three photographs of Athabasca Glacier taken by the artist from a trip on May 23, 2017.
 
 Lying on her back on top of the ice field, Carruthers listened to the voice of the glacier – the natural environment underneath her, above her, and around her, capturing initial experiences through the lens of her camera and notetaking.
