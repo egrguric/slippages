@@ -36,14 +36,11 @@ Funding for the website ‘slippages’ and digitization of ‘slippages’ reso
 This site is built using Wax, a minimal computing project led by Marii Nyröp and currently maintained by Marii Nyrop and Alex Gil at Columbia University Libraries.
 
 Wax uses open source libraries and frameworks (including Jekyll, IIIF, OpenSeaDragon, Rake, and ElasticLunr) and builds upon work by software and data architects Peter Binkley, David Newbury, and others.
-<p float="left">
 <img src="/img/logo.png" width="auto" height="100" />
 <img src="/img/SOM_web_icon.png" width="auto" height="100" />
 <img src="/img/peter-wall-logo.jpg" width="auto" height="100" />
 <img src="/img/UBC_library_short.png" width="auto" height="100" />
-</p>
-<p float="left">
 <img src="/img/CCA_RGB_colour_e.jpg" width="auto" height="100" />
-</p>
+
 
 [Affiliations](https://egrguric.github.io/slippages/affiliations)
