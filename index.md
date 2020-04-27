@@ -17,7 +17,7 @@ Climate crisis has the potential to change humanity and the natural world foreve
 In 2017, multidisciplinary artist, [Deborah Carruthers](http://www.deborahcarruthers.com), served as the inaugural Artist in Residence at the [Peter Wall Institute for Advanced Studies](https://pwias.ubc.ca), [University of British Columbia (UBC)](https://en.wikipedia.org/wiki/University_of_British_Columbia). Carruthers teamed up with science researchers at the institution as well as the [UBC School of Music](https://music.ubc.ca) to create an interdisciplinary work combining sound, science, and visual art for the purposes of increasing public awareness of the climate crisis and inciting action.
 
 ### The Inspiration
-<iframe frameborder="0" class="juxtapose" width="100%" height="472" src="https://cdn.knightlab.com/libs/juxtapose/latest/embed/index.html?uid=f0a7c2c6-8026-11ea-a879-0edaf8f81e27"></iframe>
+<iframe frameborder="0" class="juxtapose" width="100%" height="558" src="https://cdn.knightlab.com/libs/juxtapose/latest/embed/index.html?uid=0c1a4624-88be-11ea-a879-0edaf8f81e27"></iframe>
 
 Aerial views of Athabasca Glacier in recession: photos courtesy NASA.
 
