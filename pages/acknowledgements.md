@@ -39,6 +39,10 @@ Wax uses open source libraries and frameworks (including Jekyll, IIIF, OpenSeaDr
 
 [//]: # On this page only include logos for PWIAS, CC, UBC School of Music. Three footer bars: one with these logos, the one below for UBC Library, and the very bottom one for UBC.
 
-[Affiliations](https://egrguric.github.io/slippages/affiliations)
-
 <img src="/img/logo.png" width="auto" height="100" />
+<img src="/img/SOM_web_icon.png" width="auto" height="100" />
+<img src="/img/CCA_RGB_colour_e.jpg" width="auto" height="100" />
+<img src="/img/peter-wall-logo.jpg" width="auto" height="100" />
+<img src="/img/UBC_logo_short.png" width="auto" height="100" />
+
+[Affiliations](https://egrguric.github.io/slippages/affiliations)
