@@ -8,19 +8,34 @@ layout: none
   "label": "slippages",
   "manifests": [
     {
-      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/obj3/manifest.json",
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/01JonathanandDeborah/manifest.json",
       "@type": "sc:Manifest",
-      "label": "obj3"
+      "label": "01JonathanandDeborah"
     },
     {
-      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/obj2/manifest.json",
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/02UBCClimatecrisisphoto/manifest.json",
       "@type": "sc:Manifest",
-      "label": "obj2"
+      "label": "02UBCClimatecrisisphoto"
     },
     {
-      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/obj1/manifest.json",
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/03JonathanandDeborah/manifest.json",
       "@type": "sc:Manifest",
-      "label": "obj1"
+      "label": "03JonathanandDeborah"
+    },
+    {
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/01UBCClimatecrisisphoto/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "01UBCClimatecrisisphoto"
+    },
+    {
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/RBSC_ARC_1817_02_03_003/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "RBSC_ARC_1817_02_03_003"
+    },
+    {
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/02JonathanandDeborah/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "02JonathanandDeborah"
     }
   ]
 }
