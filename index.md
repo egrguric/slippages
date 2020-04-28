@@ -3,7 +3,7 @@ layout: page
 show_title: false
 banner:
   collection: slippages
-  pid: Obj1
+  pid: RBSC_ARC_1817_02_03_003
   y: 25%
   height: '400px'
 ---
