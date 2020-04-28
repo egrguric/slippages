@@ -7,7 +7,16 @@ permalink: /premiere/
 
 ### Programme
 
-*3 pages of programme*  
+<div id="ubcOpenCollectionsWidgetDisplay">
+<script id="ubcOpenCollectionsWidget"
+src="https://open.library.ubc.ca/staticfile/build/embed/item.js"
+data-item="1.0389943"
+data-collection="specialp"
+data-metadata="false"
+data-width="800"
+async >
+</script>
+</div>
 The first three pages from the evening’s progamme indicating companion works selected by Maestro Girard for *‘slippages’*.
 
 Director Dr. Jonathan Girard dedicated the evening’s concert to works bound in various ways to the natural environment. The programme reveals his eclectic vision spanning geographies and time.
