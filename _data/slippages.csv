@@ -1,7 +1,7 @@
-pid,title,description
-01JonathanandDeborah,01 Jonathan and Deborah,position left in row of 3 images. Sight to Sound
-02JonathanandDeborah,02 Jonathan and Deborah,position middle in row of 3 images. Sight to Sound
-03JonathanandDeborah,03 Jonathan and Deborah,position right in row of 3 images. Sight to Sound
-01UBCClimatecrisisphoto,01 UBC Climate crisis photo,position left in row of 2 images. Outcomes
-02UBCClimatecrisisphoto,02 UBC Climate crisis photo,position right in row of 2 images. Outcomes
-RBSC_ARC_1817_02_03_003,Image 3 of photographic prints,for parallax header
+pid,title,description,order,layout,collection,thumbnail,full,manifest
+01JonathanandDeborah,01 Jonathan and Deborah,position left in row of 3 images. Sight to Sound,0,slippages_item,slippages,"/img/derivatives/iiif/images/01JonathanandDeborah/full/250,/0/default.jpg",/img/derivatives/iiif/images/01JonathanandDeborah/full/full/0/default.jpg,/img/derivatives/iiif/01JonathanandDeborah/manifest.json
+02JonathanandDeborah,02 Jonathan and Deborah,position middle in row of 3 images. Sight to Sound,1,slippages_item,slippages,"/img/derivatives/iiif/images/02JonathanandDeborah/full/250,/0/default.jpg",/img/derivatives/iiif/images/02JonathanandDeborah/full/full/0/default.jpg,/img/derivatives/iiif/02JonathanandDeborah/manifest.json
+03JonathanandDeborah,03 Jonathan and Deborah,position right in row of 3 images. Sight to Sound,2,slippages_item,slippages,"/img/derivatives/iiif/images/03JonathanandDeborah/full/250,/0/default.jpg",/img/derivatives/iiif/images/03JonathanandDeborah/full/full/0/default.jpg,/img/derivatives/iiif/03JonathanandDeborah/manifest.json
+01UBCClimatecrisisphoto,01 UBC Climate crisis photo,position left in row of 2 images. Outcomes,3,slippages_item,slippages,"/img/derivatives/iiif/images/01UBCClimatecrisisphoto/full/250,/0/default.jpg",/img/derivatives/iiif/images/01UBCClimatecrisisphoto/full/full/0/default.jpg,/img/derivatives/iiif/01UBCClimatecrisisphoto/manifest.json
+02UBCClimatecrisisphoto,02 UBC Climate crisis photo,position right in row of 2 images. Outcomes,4,slippages_item,slippages,"/img/derivatives/iiif/images/02UBCClimatecrisisphoto/full/250,/0/default.jpg",/img/derivatives/iiif/images/02UBCClimatecrisisphoto/full/full/0/default.jpg,/img/derivatives/iiif/02UBCClimatecrisisphoto/manifest.json
+RBSC_ARC_1817_02_03_003,Image 3 of photographic prints,for parallax header,5,slippages_item,slippages,"/img/derivatives/iiif/images/RBSC_ARC_1817_02_03_003/full/250,/0/default.jpg",/img/derivatives/iiif/images/RBSC_ARC_1817_02_03_003/full/full/0/default.jpg,/img/derivatives/iiif/RBSC_ARC_1817_02_03_003/manifest.json
