@@ -4,7 +4,7 @@ show_title: false
 banner:
   collection: slippages
   pid: RBSC_ARC_1817_02_03_003
-  y: 25%
+  y: 0%
   height: '400px'
 ---
 <!-- parallax image goes here at the top of the page content.-->
