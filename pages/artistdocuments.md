@@ -36,7 +36,7 @@ Considering stress and strain and deformations, it is desirable to crumple score
  
 The number of musicians can be extremely variable. This piece was originally conceived of as having a length of 10 minutes. For large ensembles, such as symphony orchestras, it is recommended that the work be timed, with each sheet representing approximately 25 sec. As the time-scale of glaciers is dramatically different from ours, I would suggest that this too may be mutable.
  
-The original *'slippages'* score consists of twenty-seven 18 inch by 24 inch pages of bespoke St-Armand cotton paper, with the score rendered in coloured acrylic ink and marine salt.
+The original *'slippages'*  score consists of twenty-seven 18 inch by 24 inch pages of bespoke St-Armand cotton paper, with the score rendered in coloured acrylic ink and marine salt.
  
 
 **3.	About My Graphic Scores**
@@ -45,7 +45,7 @@ Graphic scores in general do not have to contain any musical notation – althou
 
 My scores contain no musical notation whatsoever. 
 
-*'slippages'* has no temporal or pitch indications; although it has a suggestion related to the overall length of the work to facilitate working with large ensembles.
+*'slippages'*  has no temporal or pitch indications; although it has a suggestion related to the overall length of the work to facilitate working with large ensembles.
 
 It does not include directions as to what kind or how many instruments are to be used (including voice).
 
