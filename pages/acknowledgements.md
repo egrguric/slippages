@@ -33,7 +33,7 @@ Funding for the website ‘slippages’ and digitization of ‘slippages’ reso
 
 ### Site
 
-This site is built using Wax, a minimal computing ([minicomp])(https://github.com/minicomp) project led by [Marii Nyröp](http://marii.info/) and currently maintained by Marii Nyrop and [Alex Gil](https://github.com/elotroalex) at Columbia University Libraries.
+This site is built using Wax, a minimal computing ([minicomp](https://github.com/minicomp)) project led by [Marii Nyröp](http://marii.info/) and currently maintained by Marii Nyrop and [Alex Gil](https://github.com/elotroalex) at Columbia University Libraries.
 
 Wax uses open source libraries and frameworks (including [Jekyll](https://jekyllrb.com/), [IIIF](https://iiif.io/), [OpenSeaDragon](https://openseadragon.github.io/), [Rake](https://ruby.github.io/rake/), and [ElasticLunr](http://elasticlunr.com/)) and builds upon work by software and data architects [Peter Binkley](https://github.com/pbinkley), [David Newbury](https://github.com/workergnome), and others.
 
