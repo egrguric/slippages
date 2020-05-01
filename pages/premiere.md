@@ -24,9 +24,9 @@ Director Dr. Jonathan Girard dedicated the evening’s concert to works bound in
 ### Performance
 
 *Broadcast performance*  
-Performance of *‘slippages’* by UBCSO courtesy of UBC School of Music.
+Performance of *‘slippages’*  by UBCSO courtesy of UBC School of Music.
 
-On Friday, October 5th, 2018, *‘slippages’* premiered at the [Chan Centre for the Performing Arts](https://en.wikipedia.org/wiki/Chan_Centre_for_the_Performing_Arts) with the UBC Symphony Orchestra under the baton of Dr. Jonathan Girard. 
+On Friday, October 5th, 2018, *‘slippages’*  premiered at the [Chan Centre for the Performing Arts](https://en.wikipedia.org/wiki/Chan_Centre_for_the_Performing_Arts) with the UBC Symphony Orchestra under the baton of Dr. Jonathan Girard. 
 
 
 Viewing parties for the broadcast performance took place in cities across Canada, the United States, the United Kingdom, and Germany.
