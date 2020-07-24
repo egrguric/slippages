@@ -1,8 +1,7 @@
 ---
 pid: obj2
-title: 02 Jonathan and Deborah
-description: position middle in row of 3 images. Sight to Sound
-order: '1'
+RBSC-id: RBSC_ARC_1817_02_03_002
+order: '02'
 layout: slippages_item
 collection: slippages
 thumbnail: "/img/derivatives/iiif/images/obj2/full/250,/0/default.jpg"

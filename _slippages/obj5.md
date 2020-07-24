@@ -1,8 +1,7 @@
 ---
 pid: obj5
-title: 02 UBC Climate crisis photo
-description: position right in row of 2 images. Outcomes
-order: '4'
+RBSC-id: RBSC_ARC_1817_02_02_004_L_005_R
+order: '05'
 layout: slippages_item
 collection: slippages
 thumbnail: "/img/derivatives/iiif/images/obj5/full/250,/0/default.jpg"

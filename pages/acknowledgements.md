@@ -16,7 +16,7 @@ permalink: /acknowledgements/
 
 Three colleagues in particular deserve independent acknowledgement for their project contributions:
 *	Eka Grguric for guiding the construction of the website and providing effective solutions to project complications as they arose.
-* Evan Thornberry Thornberry for collecting and navigating geographically referenced project data and images and for thoughtful feedback throughout website construction. 
+* Evan Thornberry Thornberry for collecting and navigating geographically referenced project data and images and for thoughtful feedback throughout website construction.
 *	Matthew Kaufhold for serving as the primary digitizer, creating resource metadata, participating in website construction, and editing website content.
 
 UBC School of Music graciously extended support to *‘slippages’*  website creation by way of facilitating performance copyright clearance. Special thanks goes to UBC Director of Orchestras Dr. Jonathan Girard whose boundless energy and kindness contributed greatly to the success of the enterprise.
@@ -37,11 +37,11 @@ This site is built using Wax, a minimal computing ([minicomp](https://github.com
 
 Wax uses open source libraries and frameworks (including [Jekyll](https://jekyllrb.com/), [IIIF](https://iiif.io/), [OpenSeaDragon](https://openseadragon.github.io/), [Rake](https://ruby.github.io/rake/), and [ElasticLunr](http://elasticlunr.com/)) and builds upon work by software and data architects [Peter Binkley](https://github.com/pbinkley), [David Newbury](https://github.com/workergnome), and others.
 
-<img src="img/logo.png" width="auto" height="100" />
-<img src="img/SOM_web_icon.png" width="auto" height="100" />
-<img src="img/peter-wall-logo.jpg" width="auto" height="100" />
-<img src="img/UBC_library_short.png" width="auto" height="100" />
-<img src="img/CCA_RGB_colour_e.jpg" width="auto" height="100" />
+<img src="../img/logos/ubc-logo.png" width="auto" height="100" />
+<img src="../img/logos/som-logo.png" width="auto" height="100" />
+<img src="../img/logos/peter-wall-logo.jpg" width="auto" height="100" />
+<img src="../img/logos/ubc-library.png" width="auto" height="100" />
+<img src="../img/logos/cca-logo.jpg" width="auto" height="100" />
 
 
 [Affiliations](https://egrguric.github.io/slippages/affiliations)

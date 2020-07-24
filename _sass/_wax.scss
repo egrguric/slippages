@@ -180,12 +180,12 @@ content section
     }
 
     .inline-image-reference {
-      background-color: $neutral;
+      /*background-color: $neutral;*/
       margin-top: $more-margin;
       margin-bottom: $more-margin;
       display: inline-block;
-      padding: 1em;
-      max-width: 90%;
+      /*padding: 1em;*/
+      max-width: 95%;
       img {
         max-width: 100%;
         max-height: 80vh;

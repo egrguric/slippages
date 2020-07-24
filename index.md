@@ -3,7 +3,7 @@ layout: default
 show_title: false
 banner:
   collection: slippages
-  pid: obj6
+  pid: obj0
   y: 0%
   height: '400px'
   zoom:
@@ -18,6 +18,7 @@ Climate crisis has the potential to change humanity and the natural world foreve
 In 2017, multidisciplinary artist, [Deborah Carruthers](http://www.deborahcarruthers.com), served as the inaugural Artist in Residence at the [Peter Wall Institute for Advanced Studies](https://pwias.ubc.ca), [University of British Columbia (UBC)](https://en.wikipedia.org/wiki/University_of_British_Columbia). Carruthers teamed up with science researchers at the institution as well as the [UBC School of Music](https://music.ubc.ca) to create an interdisciplinary work combining sound, science, and visual art for the purposes of increasing public awareness of the climate crisis and inciting action.
 
 ### The Inspiration
+
 <iframe frameborder="0" class="juxtapose" width="100%" height="558" src="https://cdn.knightlab.com/libs/juxtapose/latest/embed/index.html?uid=0c1a4624-88be-11ea-a879-0edaf8f81e27"></iframe>
 
 Aerial views of Athabasca Glacier in recession: photos courtesy NASA.
@@ -26,16 +27,20 @@ Carruthers found inspiration for the project on an earlier research trip to [Ath
 
 ### The Project
 
-<div id="ubcOpenCollectionsWidgetDisplay">
-<script id="ubcOpenCollectionsWidget"
-src="https://open.library.ubc.ca/staticfile/build/embed/item.js"
-data-item="1.0389937"
-data-collection="specialp"
-data-metadata="false"
-data-width="800"
-async >
-</script>
+<div class="container">
+  <div class="row">
+    <div class="col-sm">
+{% include inline_image.html collection='slippages' pid='obj1'%}
 </div>
+   <div class="col-sm">
+{% include inline_image.html collection='slippages' pid='obj2' %}
+</div>
+   <div class="col-sm">
+{% include inline_image.html collection='slippages' pid='obj3' %}
+</div>
+  </div>
+</div>
+
 Three photographs of Athabasca Glacier taken by the artist from a trip on May 23, 2017.
 
 Lying on her back on top of the ice field, Carruthers listened to the voice of the glacier – the natural environment underneath her, above her, and around her, capturing initial experiences through the lens of her camera and notetaking.
@@ -43,5 +48,3 @@ Lying on her back on top of the ice field, Carruthers listened to the voice of t
 The result of Carruthers' concern for the natural environment, field trip to Athabasca, and tenure as a Wall Scholar is *‘slippages’* – a 27-page graphic score with an accompanying streaming visual component. For the unfamiliar, graphic scores use visual symbols to represent music rather than traditional music notation. Because of their emphasis on the visual, graphic scores are frequently considered works of art in and of themselves.
 
 Learn more: [The Science](https://egrguric.github.io/slippages/science)
-
-{% include inline_image.html collection='slippages' pid='obj1' %}
