@@ -31,11 +31,21 @@ Funding for the project *‘slippages’*  was provided by The Peter Wall Instit
 
 Funding for the website *‘slippages’*  and digitization of *‘slippages’*  resources was provided by the Anne Kaplan Endowment, UBC Library.
 
-<img src="../img/logos/ubc-logo.png" width="auto" height="100" />
-<img src="../img/logos/som-logo.png" width="auto" height="100" />
-<img src="../img/logos/peter-wall-logo.jpg" width="auto" height="100" />
-<img src="../img/logos/ubc-library.png" width="auto" height="100" />
-<img src="../img/logos/cca-logo.jpg" width="auto" height="100" />
+<div class="container">
+  <div class="row">
+    <div class="col-sm">
+<img src="../img/logos/ubc-logo.png" width="auto" height="70" />
+</div>
+   <div class="col-sm">
+<img src="../img/logos/som-logo.png" width="auto" height="70" />
+</div>
+   <div class="col-sm">
+<img src="../img/logos/peter-wall-logo.jpg" width="auto" height="70" />
+</div>
+  </div>
+</div>
+<br>
+<img src="../img/logos/cca-logo.jpg" width="auto" height="70" />
 
 ### Site
 

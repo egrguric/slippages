@@ -35,9 +35,6 @@ Carruthers found inspiration for the project on an earlier research trip to [Ath
    <div class="col-sm">
 {% include inline_image.html collection='slippages' pid='obj2' %}
 </div>
-   <div class="col-sm">
-{% include inline_image.html collection='slippages' pid='obj3' %}
-</div>
   </div>
 </div>
 
