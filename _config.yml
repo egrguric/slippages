@@ -23,7 +23,7 @@ description:      'Exhibit site for Slippages project'
 url:              'https://egrguric.github.io'
 baseurl:          '/slippages'
 copyright:        'Coming soon.'
-logo:             '/assets/logo.png'
+logo:             '/img/logos/ubc-logo.png'
 
 # ---------------------------------------------------------------
 # BUILD SETTINGS
@@ -136,6 +136,6 @@ footer:
     - label: 'Site credits'
       link: '/credits'
   logos:
-    - img: '/img/logo.png'
+    - img: '/img/logos/ubc-logo.png'
 
 # FIN
