@@ -30,10 +30,10 @@ Carruthers found inspiration for the project on an earlier research trip to [Ath
 <div class="container">
   <div class="row">
     <div class="col-sm">
-{% include inline_image.html collection='slippages' pid='obj1'%}
+{% include inline_image.html collection='slippages' pid='obj2'%}
 </div>
    <div class="col-sm">
-{% include inline_image.html collection='slippages' pid='obj2' %}
+{% include inline_image.html collection='slippages' pid='obj3' %}
 </div>
   </div>
 </div>
