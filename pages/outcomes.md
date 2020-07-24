@@ -14,9 +14,6 @@ permalink: /outcomes/
    <div class="col-sm">
 {% include inline_image.html collection='slippages' pid='obj26' %}
   </div>
-  <div class="col-sm">
-{% include inline_image.html collection='slippages' pid='obj27' %}
- </div>
   </div>
 </div>
 Three paintings selected from a series forming the 27-page graphic score for *‘slippages’*  shown with edits as they appear in Dr. Girard’s study score format.
