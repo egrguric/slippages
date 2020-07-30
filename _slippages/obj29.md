@@ -1,6 +1,7 @@
 ---
 pid: obj29
 RBSC-id: 03 UBC Climate crisis photo
+Label:
 order: '29'
 layout: slippages_item
 collection: slippages

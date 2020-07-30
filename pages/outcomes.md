@@ -7,6 +7,7 @@ permalink: /outcomes/
 ### Documentation
 
 <div class="container">
+<div class="inline-image-reference">
   <div class="row">
     <div class="col-sm">
 {% include inline_image.html collection='slippages' pid='obj25'%}
@@ -14,10 +15,11 @@ permalink: /outcomes/
    <div class="col-sm">
 {% include inline_image.html collection='slippages' pid='obj26' %}
   </div>
-  </div>
+  <p class="image-caption"><b>Above:</b> Two paintings selected from a series forming the 27-page graphic score for <b>‘slippages’</b>  shown with edits as they appear in Dr. Girard’s study score format.</p>
 </div>
-Three paintings selected from a series forming the 27-page graphic score for *‘slippages’*  shown with edits as they appear in Dr. Girard’s study score format.
-
+</div>
+</div>
+<br>
 Immediately following the premier, Dr. Girard created a study score to record decisions made in the execution of the composition to facilitate future performances.
 
 In the summer of 2019, UBC’s Music Librarian began the process of gathering and working with colleagues from across various UBC Library units for the purpose of visioning and building UBC Library’s *‘slippages’*  website and creating permanent access to *‘slippages’*  holdings in [UBC Library’s Open Collections](https://open.library.ubc.ca)
@@ -31,6 +33,7 @@ The inclusion of *‘slippages’*  in UBCSO’s 2018-19 concert season offered 
 ### Action UBC
 
 <div class="container">
+<div class="inline-image-reference">
   <div class="row">
     <div class="col-sm">
 {% include inline_image.html collection='slippages' pid='obj28'%}
@@ -38,11 +41,11 @@ The inclusion of *‘slippages’*  in UBCSO’s 2018-19 concert season offered 
    <div class="col-sm">
 {% include inline_image.html collection='slippages' pid='obj29' %}
   </div>
-  </div>
+  <p class="image-caption"><b>Above:</b> Student action September 27, 2019 as captured by Bailey Martens in <a href="https://www.ubyssey.ca/culture/UBC-Climate-Strike-Signs">“The stories behind UBC students' pleas for climate action”</a> published by UBC’s student newspaper; photos courtesy of UBYSSEY.</p>
 </div>
-
-Student action September 27, 2019 as captured by Bailey Martens in [“The stories behind UBC students' pleas for climate action”](https://www.ubyssey.ca/culture/UBC-Climate-Strike-Signs) published by UBC’s student newspaper; photos courtesy of UBYSSEY.
-
+</div>
+</div>
+<br>
 Most importantly, *‘slippages’*  endures as a marker for student engagement around climate crisis at UBC, both in terms of activities related to their professional studies and as inspiration to action.
 
 Learn more: [Affiliations](https://egrguric.github.io/slippages/affiliations)

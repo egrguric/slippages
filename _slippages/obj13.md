@@ -1,6 +1,7 @@
 ---
 pid: obj13
 RBSC-id: RBSC_ARC_1817_01_03_019
+Label:
 order: '13'
 layout: slippages_item
 collection: slippages

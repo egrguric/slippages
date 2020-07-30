@@ -1,6 +1,7 @@
 ---
 pid: obj18
 RBSC-id: IMGP7860 copy adjust
+Label:
 order: '18'
 layout: slippages_item
 collection: slippages

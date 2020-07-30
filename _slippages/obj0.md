@@ -1,6 +1,7 @@
 ---
 pid: obj0
 RBSC-id: cropped-banner-image
+Label:
 order: '00'
 layout: slippages_item
 collection: slippages

@@ -19,7 +19,7 @@ In 2017, multidisciplinary artist, [Deborah Carruthers](http://www.deborahcarrut
 
 ### The Inspiration
 
-<iframe frameborder="0" class="juxtapose" width="100%" height="558" src="https://cdn.knightlab.com/libs/juxtapose/latest/embed/index.html?uid=0c1a4624-88be-11ea-a879-0edaf8f81e27"></iframe>
+<iframe frameborder="0" class="juxtapose" width="100%" height="558" src="https://cdn.knightlab.com/libs/juxtapose/latest/embed/index.html?uid=57fca15e-d201-11ea-bf88-a15b6c7adf9a"></iframe>
 
 Aerial views of Athabasca Glacier in recession: photos courtesy NASA.
 
@@ -28,18 +28,22 @@ Carruthers found inspiration for the project on an earlier research trip to [Ath
 ### The Project
 
 <div class="container">
+  <div class="inline-image-reference">
   <div class="row">
+
     <div class="col-sm">
-{% include inline_image.html collection='slippages' pid='obj2'%}
+    {% include inline_image.html collection='slippages' pid='obj2' %}
+    </div>
+    <div class="col-sm">
+    {% include inline_image.html collection='slippages' pid='obj3' %}
+    </div>
+<p class="image-caption"><b>Above:</b> Two photographs of Athabasca Glacier taken by the artist from a trip on May 23, 2017.</p>
 </div>
-   <div class="col-sm">
-{% include inline_image.html collection='slippages' pid='obj3' %}
 </div>
-  </div>
 </div>
 
-Three photographs of Athabasca Glacier taken by the artist from a trip on May 23, 2017.
 
+<br>
 Lying on her back on top of the ice field, Carruthers listened to the voice of the glacier – the natural environment underneath her, above her, and around her, capturing initial experiences through the lens of her camera and notetaking.
 
 The result of Carruthers' concern for the natural environment, field trip to Athabasca, and tenure as a Wall Scholar is *‘slippages’* – a 27-page graphic score with an accompanying streaming visual component. For the unfamiliar, graphic scores use visual symbols to represent music rather than traditional music notation. Because of their emphasis on the visual, graphic scores are frequently considered works of art in and of themselves.

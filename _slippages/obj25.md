@@ -1,6 +1,8 @@
 ---
 pid: obj25
 RBSC-id: RBSC_ARC_1817_01_02_ 020
+Label: Two paintings selected from a series forming the 27-page graphic score for
+  ‘slippages’ shown with edits as they appear in Dr. Girard’s study score format.
 order: '25'
 layout: slippages_item
 collection: slippages

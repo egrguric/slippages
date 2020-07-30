@@ -1,6 +1,8 @@
 ---
 pid: obj4
 RBSC-id: RBSC_ARC_1817_02_02_032_L_033_R
+Label: Selected pages from Carruthers’ ‘slippages’ notebook highlighting the artist’s
+  creative assimilation of glacial scientific theory.
 order: '04'
 layout: slippages_item
 collection: slippages
