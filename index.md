@@ -28,20 +28,18 @@ Carruthers found inspiration for the project on an earlier research trip to [Ath
 ### The Project
 
 <div class="container">
-  <div class="inline-image-reference">
+<div class="inline-image-reference">
   <div class="row">
-
     <div class="col-sm">
     {% include inline_image.html collection='slippages' pid='obj2' %}
     </div>
     <div class="col-sm">
     {% include inline_image.html collection='slippages' pid='obj3' %}
     </div>
-<p class="image-caption"><b>Above:</b> Two photographs of Athabasca Glacier taken by the artist from a trip on May 23, 2017.</p>
+  </div>  
+    <div class="row"><p class="image-caption"><b>Above:</b> Two photographs of Athabasca Glacier taken by the artist from a trip on May 23, 2017.</p></div>
 </div>
 </div>
-</div>
-
 
 <br>
 Lying on her back on top of the ice field, Carruthers listened to the voice of the glacier – the natural environment underneath her, above her, and around her, capturing initial experiences through the lens of her camera and notetaking.

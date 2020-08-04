@@ -181,11 +181,11 @@ content section
 
     .inline-image-reference {
       background-color: $neutral;
-      /*margin-top: $more-margin;*/
-      /*margin-bottom: $more-margin;*/
+      margin-top: $mini-margin;
+      margin-bottom: $mini-margin;
       display: inline-block;
-      padding: 1em;
-      max-width: 95%;
+      padding: 10px;
+      max-width: 100%;
       img {
         max-width: 100%;
         max-height: 80vh;
@@ -194,6 +194,7 @@ content section
         margin: 1em 0 1em 0;
         padding-left: 30px;
         padding-right: 30px;
+        font-size: .7em;
         font-family: $heading-font;
       }
     }
