@@ -9,20 +9,18 @@ permalink: /sighttosound/
 <div class="container">
   <div class="inline-image-reference">
   <div class="row">
-    <div class="col-sm">
+  <div class="col-sm-3">
+  {% include inline_image.html collection='slippages' pid='obj17' %}
+  </div>
+    <div class="col-sm-7">
 {% include inline_image.html collection='slippages' pid='obj16'%}
 </div>
-  <div class="col-sm">
+  <div class="col-sm-7">
 {% include inline_image.html collection='slippages' pid='obj18'%}
  </div>
   </div>
 <div class="row">
-<div class="col-sm-7">
  <p class="image-caption"><b>Above and left:</b> Three images courtesy photographer John William capturing Maestro Dr. Jonathan Girard and the artist deep in the collaborative process.</p>
-</div>
-<div class="col-sm-5">
-{% include inline_image.html collection='slippages' pid='obj17' %}
-</div>
 </div>
 </div>
 </div>
@@ -34,9 +32,6 @@ permalink: /sighttosound/
 <div class="container">
   <div class="inline-image-reference">
   <div class="row">
-    <div class="col-sm">
-{% include inline_image.html collection='slippages' pid='obj19'%}
-</div>
    <div class="col-sm">
 {% include inline_image.html collection='slippages' pid='obj20' %}
   </div>

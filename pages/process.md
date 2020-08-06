@@ -35,9 +35,6 @@ Upon returning to Montréal after visiting Athabasca Glacier, Carruthers set to 
 <div class="container">
 <div class="inline-image-reference">
   <div class="row">
-    <div class="col-sm">
-    {% include inline_image.html collection='slippages' pid='obj12'%}
-  </div>
    <div class="col-sm">
    {% include inline_image.html collection='slippages' pid='obj13' %}
    </div>
