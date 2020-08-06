@@ -38,7 +38,7 @@ permalink: /sighttosound/
   <div class="col-sm">
 {% include inline_image.html collection='slippages' pid='obj21' %}
  </div>
-  <p class="image-caption"><b>Above:</b> Three paintings selected from the 27-page <b>‘slippages’</b> graphic score shown with the transparent overlay developed by the Maestro and the artist to transform visual expression into sound.</p>
+  <p class="image-caption"><b>Above:</b> Two paintings selected from the 27-page <b>‘slippages’</b> graphic score shown with the transparent overlay developed by the Maestro and the artist to transform visual expression into sound.</p>
   </div>
   </div>
 </div>
