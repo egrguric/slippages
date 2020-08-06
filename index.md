@@ -19,7 +19,7 @@ In 2017, multidisciplinary artist, [Deborah Carruthers](http://www.deborahcarrut
 
 ### The Inspiration
 
-<iframe frameborder="0" class="juxtapose" width="100%" height="558" src="https://cdn.knightlab.com/libs/juxtapose/latest/embed/index.html?uid=57fca15e-d201-11ea-bf88-a15b6c7adf9a"></iframe>
+<iframe frameborder=“0” class=“juxtapose” width=“100%” height=“558" src=“https://cdn.knightlab.com/libs/juxtapose/latest/embed/index.html?uid=5f21a49c-d82e-11ea-bf88-a15b6c7adf9a”></iframe>
 
 Aerial views of Athabasca Glacier in recession: photos courtesy NASA.
 
