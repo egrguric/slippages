@@ -40,6 +40,21 @@ p {
   text-rendering: optimizeLegibility;
 }
 
+p.artist {
+  width: 90%;
+  font-size: .6rem;
+  color: $text-color;
+  max-width: 100%;
+  margin-left: $margin;
+  letter-spacing: .02rem;
+  font-weight: 400;
+  font-size: 1rem;
+  line-height: 2rem;
+  -webkit-font-smoothing: antialiased;
+  text-rendering: optimizeLegibility;
+}
+
+
 /*
 
 header & nav bar
@@ -61,7 +76,7 @@ header & nav bar
   }
 
   .navbar-brand:hover {
-    color: $accent-dark;
+    color: #FFFFFF;
   }
 
   .navbar-toggler {
@@ -261,7 +276,7 @@ content section
   @extend .container;
 
   margin: 0 auto;
-  max-width: 90%;
+  max-width: 100%;
   width: $max-width;
   overflow: flex-wrap;
 }

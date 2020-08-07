@@ -44,6 +44,6 @@ Carruthers found inspiration for the project on an earlier research trip to [Ath
 <br>
 Lying on her back on top of the ice field, Carruthers listened to the voice of the glacier – the natural environment underneath her, above her, and around her, capturing initial experiences through the lens of her camera and notetaking.
 
-The result of Carruthers' concern for the natural environment, field trip to Athabasca, and tenure as a Wall Scholar is *‘slippages’*, a 27-page graphic score with an accompanying streaming visual component. For the unfamiliar, graphic scores use visual symbols to represent music rather than traditional music notation. Because of their emphasis on the visual, graphic scores are frequently considered works of art in and of themselves.
+The result of Carruthers' concern for the natural environment, the field trip to Athabasca, and tenure as a Wall Scholar is *‘slippages’* – a 27-page graphic score with an accompanying streaming visual component. For the unfamiliar, graphic scores use visual symbols to represent music rather than traditional music notation. Because of their emphasis on the visual, graphic scores are frequently considered works of art in and of themselves.
 
 Learn more: [The Science](https://egrguric.github.io/slippages/science)
