@@ -23,9 +23,11 @@ permalink: /process/
 Carruthers maintains notebooks for each of her projects. The notebook for *‘slippages’*  functions as an essential resource for those interested in investigating the artist’s creative process. Assembled over two years, this notebook is comprised of hand-written texts, inspirational preliminary sketches, and unique inserts.					
 
 ### In the Artist's Studio
+<div class="container">
 <div class="inline-image-reference">
 {% include inline_image.html collection='slippages' pid='obj10' %}
 <p class="image-caption"><b>Above:</b> Photographs of Carruthers’ trip to Athabasca Glacier on display above her Montréal studio work table.</p>
+</div>
 </div>
 <br>
 Upon returning to Montréal after visiting Athabasca Glacier, Carruthers set to work in her studio, pinning up prints of her photographs to the studio walls and making preliminary drawings for a series of finished paintings.
