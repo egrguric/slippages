@@ -6,7 +6,7 @@ permalink: /premiere/
 
 ### Performance
 <div class="container">
-<video width="1250" height="auto" controls>
+<video width="800" height="auto" controls>
  <source src="videos/performance.mp4" type="video/mp4">
  <source src="videos/performance.ogg" type="video/ogg">
 </video>
