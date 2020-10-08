@@ -52,7 +52,7 @@ Carruthers commissioned special hand-made paper for the final images, requesting
 
 ### Digital
 
-<video width="800" height="auto" controls>
+<video width="1250"" height="auto" controls>
  <source src="videos/streaming-excerpt.mp4" type="video/mp4">
 </video>
 

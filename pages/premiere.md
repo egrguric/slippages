@@ -5,12 +5,12 @@ permalink: /premiere/
 ---
 
 ### Performance
-
-<video width="800" height="auto" controls>
+<div class="container">
+<video width="1250" height="auto" controls>
  <source src="videos/performance.mp4" type="video/mp4">
  <source src="videos/performance.ogg" type="video/ogg">
 </video>
-
+</div>
 Performance of *‘slippages’*  by UBCSO courtesy of UBC School of Music.
 
 On Friday, October 5th, 2018, *‘slippages’*  premiered at the [Chan Centre for the Performing Arts](https://en.wikipedia.org/wiki/Chan_Centre_for_the_Performing_Arts) with the UBC Symphony Orchestra under the baton of Dr. Jonathan Girard.
