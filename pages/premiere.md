@@ -6,7 +6,10 @@ permalink: /premiere/
 
 ### Performance
 
-<a href="https://open.library.ubc.ca/cIRcle/collections/historyofnursinginpacificcanada/46624/items/1.0347382">Watch video!<script>var w=window,d=document,e;w._fpes||(w._fpes=[],w.addEventListener("load",function(){var s=d.createElement("script");s.src="//embed.flowplayer.org/6.0.5/embed.min.js",d.body.appendChild(s)})),e=[].slice.call(d.getElementsByTagName("script"),-1)[0].parentNode,w._fpes.push({e:e,l:"",c:{"ratio":0.5625,"rtmp":0,"live":false,"origin":"https://open.library.ubc.ca/cIRcle/collections/historyofnursinginpacificcanada/46624/items/1.0347382","key":"$495598992287452","swf":"//releases.flowplayer.org/6.0.5/commercial/flowplayer.swf","swfHls":"//releases.flowplayer.org/6.0.5/commercial/flowplayerhls.swf","adaptiveRatio":true,"clip":{"sources":[{"type":"application/x-mpegurl","src":"https://open.library.ubc.ca/media/stream/m3u8/46624/1.0347382/0"},{"type":"video/mp4","src":"https://open.library.ubc.ca/media/stream/mp4/46624/1.0347382/0"}]}}});</script></a>
+<video width="800" height="auto" controls>
+ <source src="videos/performance.mp4" type="video/mp4">
+ <source src="videos/performance.ogg" type="video/ogg">
+</video>
 
 Performance of *‘slippages’*  by UBCSO courtesy of UBC School of Music.
 

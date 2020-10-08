@@ -52,7 +52,9 @@ Carruthers commissioned special hand-made paper for the final images, requesting
 
 ### Digital
 
-*Excerpt from the visual streaming component*
+<video width="800" height="auto" controls>
+ <source src="videos/streaming-excerpt.mp4" type="video/mp4">
+</video>
 
 Along with the paintings, Carruthers created a streaming video component that would serve to compliment the central aural experience.
 
